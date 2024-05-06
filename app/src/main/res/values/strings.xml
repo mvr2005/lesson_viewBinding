@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lesson view binding from neco</string>
+    <string name="bt1">кнопка</string>
+    <string name="tx1">text</string>
+    <string name="tx2">текст исчезнет</string>
+    <string name="bt_1">умножить</string>
+    <string name="bt_2">сложить</string>
+    <string name="bt_3">вычесть</string>
+    <string name="tx_1">324 34</string>
+
+</resources>
